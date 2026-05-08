@@ -35,3 +35,15 @@ it is in this document that I can access the worshop location
 I call this the front end because it will be the main user interface:
 A Telegram bot that will text the student will the location of the daily free coffee.
 The Telegram bot will text the user every morning, so it will be some kind 
+
+
+## STEP BY STEP PROCESS
+
+- Fetch the location data *Different options* 
+    1st option: read the data from the sharepoint directly (using the excel sharepoint API if possible)
+    2nd option: make a copy of that file, save it as a csv, read the data from this local csv file
+    3rd option: scrap the webpage and collect the data by parsing the html webpage
+
+- Transfer the data to the Frontend user (Telegram)
+    For that part I am actually not to sure of how it would work: I would assume the Telegram bot is going to have access to the 'backend data' (which is the csv/datasheet).
+
