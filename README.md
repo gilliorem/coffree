@@ -33,7 +33,8 @@ Daily routine (08:30 SGT, weekdays):
 - `YES` → top 2 locations + a "More coffee locations" button.
 - `NO` → *"Alright, have a good day!"*.
 
-> Screenshots and a short demo video are in `data/class-direction-photo/` (folder per location). A polished demo GIF is on the to-do list.
+![demo](./screenRecording.gif)
+
 
 ---
 
