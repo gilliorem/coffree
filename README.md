@@ -2,7 +2,8 @@
 
 *Submitted to the SUTD Academy AI Task Force — B1 Builders Programme.*
 
-![visual representation]("./womencoffee.gif")
+![coffree meme](./womencoffee.gif)
+
 
 ## Overview
 
