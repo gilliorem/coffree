@@ -1,0 +1,82 @@
+[
+  {
+    "class_id": "1.311A",
+    "name": "Corner Room",
+    "building": 1,
+    "level": 3,
+    "hint_1": "Corner room",
+    "photo_folder": "data/class-direction-photo/b1-l3-corner-room"
+  },
+  {
+    "class_id": "TT14/15",
+    "name": "Think Tank 14/15",
+    "building": 1,
+    "level": 5,
+    "hint_1": "Below the computer lab",
+    "photo_folder": "data/class-direction-photo/b1-l5-tt14-15"
+  },
+  {
+    "class_id": "Comp Lab 1.611",
+    "name": "Computer Lab",
+    "building": 1,
+    "level": 6,
+    "hint_1": "Computer lab",
+    "photo_folder": "data/class-direction-photo/b1-l6-complab"
+  },
+  {
+    "class_id": "TT19",
+    "name": "Think Tank 19",
+    "building": 2,
+    "level": 3,
+    "hint_1": "",
+    "photo_folder": ""
+  },
+  {
+    "class_id": "TT20",
+    "name": "Think Tank 20, Open Claw Classroom",
+    "building": 2,
+    "level": 3,
+    "hint_1": "Open claw classroom",
+    "photo_folder": ""
+  },
+  {
+    "class_id": "TT24/25",
+    "name": "TT24-25: 2.503 & 2.504",
+    "building": 2,
+    "level": 5,
+    "hint_1": "Above the drone area",
+    "photo_folder": "data/class-direction-photo/b2-l5-tt24-tt25-ep-class"
+  },
+  {
+    "class_id": "2.612A",
+    "name": "Small corner room also called Hub room",
+    "building": 2,
+    "level": 6,
+    "hint_1": "Corner room",
+    "photo_folder": "data/class-direction-photo/b2-l6-hub-corner-class"
+  },
+  {
+    "class_id": "TT31 - 32",
+    "name": "MRT Class",
+    "building": 2,
+    "level": 1,
+    "hint_1": "Basement MRT class",
+    "photo_folder": "data/class-direction-photo/b2-lb1-mrt-class-tt31-32"
+  },
+  {
+    "class_id": "Library",
+    "name": "Library",
+    "building": 1,
+    "level": 1,
+    "hint_1": "First floor",
+    "photo_folder": ""
+  },
+  {
+    "class_id": "1.401",
+    "name": "42 SG",
+    "building": 1,
+    "level": 4,
+    "hint_1": "Above the library",
+    "photo_folder": ""
+  }
+]

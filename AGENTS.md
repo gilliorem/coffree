@@ -2,7 +2,7 @@
 
 ## Project Structure & Module Organization
 
-This repository currently contains the project brief in `README.md`. The intended product is a Telegram bot that sends SUTD students daily free-coffee locations parsed from a SharePoint/Excel workshop schedule.
+This repository currently contains the project brief in `README.md`. The intended product is a Telegram bot that sends SUTD students daily free-coffee locations parsed from a SharePoint/Excel workshop schedule. 
 
 Use this structure as implementation starts:
 

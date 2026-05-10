@@ -1,0 +1,12 @@
+class_id,aliases,name,room,building_level,hint_1,hint_2,hint_3,photo_folder,video_folder,hero_photo
+1.311A,Think Tank 1,,1.311A,"Building 1, Level 3",Corner room,,,data/video-class/b1-l3-corner-room,,data/video-screenshots/b1-l3-corner-room/IMG_2231.jpg
+TT14/15,TT14;TT15;Think Tank 14;Think Tank 15,Think Tank 14/15,,"Building 1, Level 5",Below computer lab,,,data/video-class/b1-l5-tt14-15,,data/video-screenshots/b1-l5-tt14-15/IMG_2238.jpg
+Comp Lab 1.611,Comp Lab;Computer Lab,Computer Lab,1.611,"Building 1, Level 6",,,,data/video-class/b1-l6-complab,,data/video-screenshots/b1-l6-complab/IMG_2242.jpg
+TT16/17,TT16;TT17;Think Tank 16;Think Tank 17,Think Tank 16/17,,"Building 2, Level 2",Small class near canteen,,,data/video-class/b2-l2,,data/video-screenshots/b2-l2/IMG_2249.jpg
+2.612A,,,2.612A,"Building 2, Level 6",Corner room,Hub room,,data/video-class/b2-l6-hub-corner-class,,data/video-screenshots/b2-l6-hub-corner-class/IMG_2266.jpg
+TT24/25,TT24;TT25;Think Tank 24;Think Tank 25;A C Toh Think Tank,A C Toh Think Tank,2.503 and 2.504,"Building 2, Level 5",EP class near the drone area,"Canteen building, MRT side",,data/video-class/b2-l5-tt24-tt25-ep-class,,data/video-screenshots/b2-l5-tt24-tt25-ep-class/IMG_2260.jpg
+TT20,Think Tank 20,Think Tank 20,2.305,"Building 2, Level 3",Open claw classroom,,,data/video-class/b2-l3,,data/video-screenshots/b2-l3/IMG_2254.jpg
+TT30/31,TT30;TT31;TT32;TT31/32,MRT Class,,"Building 2, Level B",,,,data/video-class/b2-lb1-mrt-class-tt31-32,,data/video-screenshots/b2-lb1-mrt-class-tt31-32/IMG_2274.jpg
+Library,,Library,,"Building 1, Level 1",,,,data/video-class/b1-l1-library,,data/video-screenshots/b1-l1-library/IMG_2272.jpg
+2.505,,Open Claw Lecture Hall,2.505,"Building 2, Level 5",,,,data/video-class/b2-l5-openclaw-lecture-hall,,data/video-screenshots/b2-l5-openclaw-lecture-hall/IMG_2258.jpg
+42,42 Singapore;42 Classroom;1.401,42 Classroom,1.401,"Building 1, Level 4",,,,,,
